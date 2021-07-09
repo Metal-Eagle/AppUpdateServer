@@ -1,0 +1,9 @@
+#node_modules
+node_modules
+# Ignore files with extension `.exe` & `..nupkg`
+*.nupkg
+*.exe
+
+RELEASES
+#Package-lock
+package-lock.json
